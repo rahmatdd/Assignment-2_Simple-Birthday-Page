@@ -1,0 +1,23 @@
+
+main {
+    display: flex;
+    box-shadow: 2px 2px 15px rgb(214, 189, 152);
+    background-color: rgb(26, 54, 54);
+    color: rgb(214, 189, 152);
+}
+
+img {
+    height: 30%;
+    width: 30%;
+    margin: 50px;
+    border: 1px solid rgb(214, 189, 152);
+    box-shadow: 2px 2px 8px rgb(214, 189, 152);
+    border-radius: 10px;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    text-shadow: 2px 2px 20px rgb(113, 138, 115);
+}
